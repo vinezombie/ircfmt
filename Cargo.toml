@@ -1,0 +1,15 @@
+[package]
+name = "ircfmt"
+version = "0.1.0"
+edition = "2021"
+
+license = "Apache-2.0"
+description = "IRC formatting codes"
+homepage = "https://github.com/vinezombie/ircfmt"
+repository = "https://github.com/vinezombie/ircfmt"
+readme = "README.md"
+keywords = ["irc"]
+categories = ["parser-implementations"]
+include = ["/src", "/README.md"]
+
+# https://doc.rust-lang.org/cargo/reference/manifest.html
